@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "bcrypt-inzi": "^1.0.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19"
+  },
+  "name": "database-login-signup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheraz756/database-login-signup.git"
+  },
+  "author": "sheraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheraz756/database-login-signup/issues"
+  },
+  "homepage": "https://github.com/sheraz756/database-login-signup#readme",
+  "description": ""
+}
